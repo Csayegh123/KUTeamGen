@@ -159,7 +159,7 @@ const loop = () => {
 };
 
 getPersonInfo();
-
+console.log();
 
 
 
