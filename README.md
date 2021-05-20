@@ -1,0 +1,1 @@
+This is a team gerneator for my homework for KU fullstack program.
